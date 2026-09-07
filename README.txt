@@ -1,3 +1,5 @@
+Alejandro Cristóbal Beltrán Riquelme  
+
 Tener instalado Node.js(version 16 o superior)
 Tener una cuenta en firebase y proyecto creado con firestore
 
