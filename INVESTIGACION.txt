@@ -1,0 +1,5 @@
+cómo Firestore almacena y recupera datos
+
+recupera los datos creando consultas o usa agentes de escucha en tiempo real y almacena datos en documentos organizados dentro de colecciones.
+
+Fuente:https://firebase.google.com/docs/firestore?hl=es-419
